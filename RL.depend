@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1629782333 source:e:\coding\c++\robert lafore - c++\rl\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstring>
+	<string>
+	<vector>
+	<list>
+	<deque>
+	<set>
+	<map>
+	<stack>
+	<algorithm>
+
